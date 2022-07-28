@@ -10,6 +10,10 @@ environment?”
 
 ![image](https://user-images.githubusercontent.com/49164907/181565373-46cd7d66-2cae-408c-9a95-1d765e98d9a8.png)
 
+
+The experiments are conducted using Tkinter, NumPy,
+pandas, SciPy, and other Python libraries.
+
 <img width="269" alt="image" src="https://user-images.githubusercontent.com/49164907/181565660-bdca8917-fe25-4bda-b268-fd1537d34ad5.png">
 
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/49164907/181565862-a3cfe093-db05-48f0-8de1-8a8535d0f850.png">
